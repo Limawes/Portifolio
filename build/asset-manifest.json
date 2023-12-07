@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/limawes.github.io/portifolio/static/css/main.aa04592b.css",
+    "main.js": "/limawes.github.io/portifolio/static/js/main.37acf603.js",
+    "index.html": "/limawes.github.io/portifolio/index.html",
+    "main.aa04592b.css.map": "/limawes.github.io/portifolio/static/css/main.aa04592b.css.map",
+    "main.37acf603.js.map": "/limawes.github.io/portifolio/static/js/main.37acf603.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa04592b.css",
+    "static/js/main.37acf603.js"
+  ]
+}
